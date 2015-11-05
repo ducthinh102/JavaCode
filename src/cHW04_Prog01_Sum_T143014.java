@@ -19,7 +19,7 @@ public class cHW04_Prog01_Sum_T143014 extends JFrame {
 	JTextField txtip = new JTextField();
 	JTextArea txtA = new JTextArea();
 	int a = -1;
-
+///Nothing change
 	public cHW04_Prog01_Sum_T143014() {
 		setTitle("Sum - T143014");
 		setSize(320, 300);
