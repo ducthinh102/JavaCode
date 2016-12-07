@@ -67,6 +67,7 @@ public class cHW04_Prog01_Sum_T143014 extends JFrame {
 				txtA.setText(null);
 			}
 		});
+		aslkskldjfaskldjfskldfjasldkfj
 	}
 
 	/**
